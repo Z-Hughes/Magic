@@ -4,7 +4,7 @@ Tarot Reading Site created for my portfolio. Fairly simple sight using only CSS,
 Project Technologies:
 
 Bootstrap
-Google fonts
+Google Fonts
 Fontawesome
 
 Skills Implemented:
