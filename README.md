@@ -1,16 +1,16 @@
 # Magic
 Tarot Reading Site created for my portfolio. Fairly simple sight using only CSS, HTML, and Bootstrap with a focus on responsiveness.
 
-Project Technologies:
+Project Technologies:  
 
-Bootstrap
-Google Fonts
-Fontawesome
+Bootstrap  
+Google Fonts  
+Fontawesome  
 
-Skills Implemented:
+Skills Implemented:  
 
-Navigation Bar
-Grid Layouts
-Carousel
-Combining Selectors
-Media Query Breakpoints
+Navigation Bar  
+Grid Layouts  
+Carousel  
+Combining Selectors  
+Media Query Breakpoints  
