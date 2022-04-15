@@ -1,9 +1,9 @@
-*{
+  *{
     margin: 0;
     padding: 0;
-}
+  }
 
-body {
+  body {
     font-family: Montserrat;
     text-align: center;
   }
@@ -47,8 +47,6 @@ body {
   .colored-section{
     background-color: #7868E6;
     color: white;
-    
-    
   }
   
   .white-section{
@@ -58,7 +56,6 @@ body {
   /* Navigation Bar */
   
   .navbar {
-   
     background-color: #EBEBEB;
   }
   
@@ -92,7 +89,7 @@ body {
     text-align: left;
   }
 
-  .title-container{
+  .title-container {
     padding: 10%;
     text-align: left;
 
@@ -109,7 +106,7 @@ body {
     position: relative;
   }
   
-  .feature-title{
+  .feature-title {
     font-size: 1.5rem;
   }
   
@@ -177,14 +174,14 @@ body {
     padding: 3% 2%;
   }
   
-  .pricing-text{
+  .pricing-text {
     font-size: 3rem; 
     line-height: 1.5;
   }
 
   /* Call to Action */
-  
-  #cta{
+
+  #cta {
     background-image: url(../images/latern.jpg);
     background-size: cover;
     background-position: center;
@@ -198,6 +195,7 @@ body {
     p{
       margin-bottom: 2%;
     }
+    
     #title {
       text-align: center;
     }
