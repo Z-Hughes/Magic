@@ -140,7 +140,7 @@
   }
   
   .testimonial-text {
-    font-size: 3rem;
+    font-size: 1.5rem;
     line-height: 1.5;
   }
   
@@ -187,6 +187,36 @@
     background-position: center;
     background-repeat: no-repeat;
   }
+
+    /* Footer */
+
+  .contact-title {
+    margin-top: 5%;
+  }
+  
+  .footer-icons {
+    margin: 20px 10px;
+  }
+
+  /* About Page */
+
+  .about-container {
+    background-image: url(../images/feather.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 4%;
+  }
+
+  .about-heading {
+    color: white;
+    margin-bottom: 5%;
+  }
+
+  .about-text {
+    color: white;
+    text-align: left;
+    text-indent: 1rem;
+  }
   
   /* Media Query Breakpoints for responisivenes on tablet and mobile */
 
@@ -212,11 +242,9 @@
     .section-heading{
       font-size: 1.5rem;
     }
-  }
-  
-  /* Footer */
-  
-  .footer-icons {
-    margin: 20px 10px;
+
+    .about-heading {
+      font-size: 3rem;
+    }
   }
   
