@@ -196,6 +196,7 @@
   
   .footer-icons {
     margin: 20px 10px;
+    color: black;
   }
 
   /* About Page */
@@ -232,7 +233,7 @@
 
     .pricing-text{
       line-height: 1;
-      /* font-size: 5rem; */
+
     }
   
     .testimonial-text{
@@ -245,6 +246,22 @@
 
     .about-heading {
       font-size: 3rem;
+    }
+
+    #cards {
+      margin-left: 3rem;
+    }
+
+    .navbar-toggler-icon {
+      margin-right: 3rem;
+    }
+
+    .title-container {
+      height: 50vh;
+    }
+
+    .container-fluid {
+      padding: 7% 5%;
     }
   }
   
